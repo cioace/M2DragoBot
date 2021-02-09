@@ -1,11 +1,11 @@
 # M2DragoBot
 <b>Description</b><br>
- Hello guys, today i want to show you how to use "DragoDumper" functions in C++. So first of all, if you want to use my project you need to install CodeBlocks and import my project into it. After this, you must to install python 2.7 in your computer to include python library and python directory in codeblocks for use "Python" environment. I created the program on x32 bytes but if you want on x64 must to config compiler for this.
+ Hello guys, today i want to show you how to use "DragoDumperLibrary" with functions in C++. So first of all, if you want to use my project you need to install CodeBlocks and import my project into it. After this, you must to install python 2.7 in your computer to include python libraries and python directories in codeblocks for use "Python" environment in your code.
 
 <b>How work?</b><br>
 
-This is a little "hack" because there are not many "functions" to help you in game very well, but again i say for every users on this forum, my projects are for developers not for "players". In the program are used few functions from python, but you can create your own "hack": <br>
-F1 -> Show player or Hide player (not work for all servers) <br>
+This is a "little hack" because there are not many "functions" to help you in game very well, but again i say for every users on this forum, my projects are for developers not for "players". In the program are used few functions from python, but you can create your own "hack" using my library "M2DragoDumperLibrary.dll": <br>
+F1 -> Show player or Hide player (not work for all servers because some clients did not add it) <br>
 F2 -> Auto red potion bot <br>
 F3 -> Auto blue potion bot <br>
 F4 -> Is a little "spam" chat message <br>
