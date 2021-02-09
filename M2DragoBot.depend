@@ -1,0 +1,259 @@
+# depslib dependency file v1.0
+1612297936 source:c:\users\dragos\documents\codeblocks\m2dragobot\game.cpp
+	"Game.h"
+
+1612297166 c:\users\dragos\documents\codeblocks\m2dragobot\game.h
+	<sstream>
+	<windows.h>
+	<vector>
+	<time.h>
+	<ios>
+	<cstdio>
+	<io.h>
+	<fcntl.h>
+	<psapi.h>
+	<exception>
+	<winternl.h>
+	<iostream>
+	"Python.h"
+
+1270918186 c:\python27\include\python.h
+	"patchlevel.h"
+	"pyconfig.h"
+	"pymacconfig.h"
+	<limits.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<unistd.h>
+	<stddef.h>
+	<assert.h>
+	"pyport.h"
+	"pymath.h"
+	"pymem.h"
+	"object.h"
+	"objimpl.h"
+	"pydebug.h"
+	"unicodeobject.h"
+	"intobject.h"
+	"boolobject.h"
+	"longobject.h"
+	"floatobject.h"
+	"complexobject.h"
+	"rangeobject.h"
+	"stringobject.h"
+	"memoryobject.h"
+	"bufferobject.h"
+	"bytesobject.h"
+	"bytearrayobject.h"
+	"tupleobject.h"
+	"listobject.h"
+	"dictobject.h"
+	"enumobject.h"
+	"setobject.h"
+	"methodobject.h"
+	"moduleobject.h"
+	"funcobject.h"
+	"classobject.h"
+	"fileobject.h"
+	"cobject.h"
+	"pycapsule.h"
+	"traceback.h"
+	"sliceobject.h"
+	"cellobject.h"
+	"iterobject.h"
+	"genobject.h"
+	"descrobject.h"
+	"warnings.h"
+	"weakrefobject.h"
+	"codecs.h"
+	"pyerrors.h"
+	"pystate.h"
+	"pyarena.h"
+	"modsupport.h"
+	"pythonrun.h"
+	"ceval.h"
+	"sysmodule.h"
+	"intrcheck.h"
+	"import.h"
+	"abstract.h"
+	"compile.h"
+	"eval.h"
+	"pyctype.h"
+	"pystrtod.h"
+	"pystrcmp.h"
+	"dtoa.h"
+	"pyfpe.h"
+	<pth.h>
+
+1278221496 c:\python27\include\patchlevel.h
+
+1260122482 c:\python27\include\pyconfig.h
+	<io.h>
+	<stdlib.h>
+	<float.h>
+	<basetsd.h>
+	<io.h>
+	<stdio.h>
+
+1275677914 c:\python27\include\pymacconfig.h
+
+1275677914 c:\python27\include\pyport.h
+	"pyconfig.h"
+	<inttypes.h>
+	<stdint.h>
+	<stdlib.h>
+	<ieeefp.h>
+	<math.h>
+	<sys/time.h>
+	<time.h>
+	<sys/time.h>
+	<time.h>
+	<sys/select.h>
+	<sys/types.h>
+	"unixstuff.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<stat.h>
+	<sys/types.h>
+	<sys/termio.h>
+	<termios.h>
+	<osreldate.h>
+	<ctype.h>
+	<wctype.h>
+
+1261423758 c:\python27\include\pymath.h
+	"pyconfig.h"
+
+1266484346 c:\python27\include\pymem.h
+	"pyport.h"
+
+1275677914 c:\python27\include\object.h
+
+1275677914 c:\python27\include\objimpl.h
+	"pymem.h"
+
+1210230988 c:\python27\include\pydebug.h
+
+1275677914 c:\python27\include\unicodeobject.h
+	<stdarg.h>
+	<ctype.h>
+	<time.h>
+	<wchar.h>
+	<wctype.h>
+
+1216392472 c:\python27\include\intobject.h
+
+1200930572 c:\python27\include\boolobject.h
+
+1265480058 c:\python27\include\longobject.h
+
+1260122446 c:\python27\include\floatobject.h
+
+1241454464 c:\python27\include\complexobject.h
+
+1200930572 c:\python27\include\rangeobject.h
+
+1241454464 c:\python27\include\stringobject.h
+	<stdarg.h>
+
+1241454464 c:\python27\include\memoryobject.h
+
+1200930572 c:\python27\include\bufferobject.h
+
+1241454464 c:\python27\include\bytesobject.h
+
+1265480058 c:\python27\include\bytearrayobject.h
+	<stdarg.h>
+
+1241454464 c:\python27\include\tupleobject.h
+
+1200930572 c:\python27\include\listobject.h
+
+1275677914 c:\python27\include\dictobject.h
+
+1130522766 c:\python27\include\enumobject.h
+
+1275677914 c:\python27\include\setobject.h
+
+1204225450 c:\python27\include\methodobject.h
+
+1200930572 c:\python27\include\moduleobject.h
+
+1200930572 c:\python27\include\funcobject.h
+
+1270918186 c:\python27\include\classobject.h
+
+1275677914 c:\python27\include\fileobject.h
+
+1270918186 c:\python27\include\cobject.h
+
+1270918186 c:\python27\include\pycapsule.h
+
+1216392472 c:\python27\include\traceback.h
+
+1241454464 c:\python27\include\sliceobject.h
+
+1200930572 c:\python27\include\cellobject.h
+
+1200930572 c:\python27\include\iterobject.h
+
+1202823342 c:\python27\include\genobject.h
+
+1275677914 c:\python27\include\descrobject.h
+
+1213873192 c:\python27\include\warnings.h
+
+1200930572 c:\python27\include\weakrefobject.h
+
+1143140184 c:\python27\include\codecs.h
+
+1275677914 c:\python27\include\pyerrors.h
+	<stdarg.h>
+
+1267909062 c:\python27\include\pystate.h
+
+1141988382 c:\python27\include\pyarena.h
+
+1202823342 c:\python27\include\modsupport.h
+	<stdarg.h>
+
+1275677914 c:\python27\include\pythonrun.h
+
+1275677914 c:\python27\include\ceval.h
+
+1275677914 c:\python27\include\sysmodule.h
+
+1130522768 c:\python27\include\intrcheck.h
+
+1260122446 c:\python27\include\import.h
+
+1275677914 c:\python27\include\abstract.h
+
+1225989632 c:\python27\include\compile.h
+	"code.h"
+
+1270918186 c:\python27\include\code.h
+
+1130522768 c:\python27\include\eval.h
+
+1278221496 c:\python27\include\pyctype.h
+
+1260122446 c:\python27\include\pystrtod.h
+
+1222516110 c:\python27\include\pystrcmp.h
+
+1270918186 c:\python27\include\dtoa.h
+
+1130522768 c:\python27\include\pyfpe.h
+	<signal.h>
+	<setjmp.h>
+	<math.h>
+
+1612298128 source:c:\users\dragos\documents\codeblocks\m2dragobot\main.cpp
+	"main.h"
+
+1612292191 c:\users\dragos\documents\codeblocks\m2dragobot\main.h
+	"game.h"
+
