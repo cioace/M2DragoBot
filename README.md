@@ -4,12 +4,12 @@
 
 <b>How work?</b><br>
 
-This is a little "hack" because there are not many "functions" to help you in game very well, but again i say for every users on this forum, my projects are for developers not for "players". In the program are used few functions from python, but you can create your own "hack":
-F1 -> Show player or Hide player (not work for all servers)
-F2 -> Auto red potion bot
-F3 -> Auto blue potion bot
-F4 -> Is a little "spam" chat message
-F5 -> Give ID from target
+This is a little "hack" because there are not many "functions" to help you in game very well, but again i say for every users on this forum, my projects are for developers not for "players". In the program are used few functions from python, but you can create your own "hack": <br>
+F1 -> Show player or Hide player (not work for all servers) <br>
+F2 -> Auto red potion bot <br>
+F3 -> Auto blue potion bot <br>
+F4 -> Is a little "spam" chat message <br>
+F5 -> Give ID from target <br>
 
 <b>How you can use it?</b><br>
 1. Move "M2DragoDumperLibrary.dll" in same folder with metin2 patcher
