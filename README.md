@@ -2,10 +2,6 @@
 <b>Description</b><br>
  Hello guys, today i want to show you how to use "DragoDumper" functions in C++. So first of all, if you want to use my project you need to install CodeBlocks and import my project into it. After this, you must to install python 2.7 in your computer to include python library and python directory in codeblocks for use "Python" environment. I created the program on x32 bytes but if you want on x64 must to config compiler for this.
 
-<b>How you can use my project?</b><br>
-
-Hello guys, today i want to show you how to use "DragoDumper" functions in C++. So first of all, if you want to use my project you need to install CodeBlocks and import my project into it. After this, you must to install python 2.7 in your computer to include python library and python directory in codeblocks for use "Python" environment. I created the program on x32 bytes but if you want on x64 must to config compiler for this.
-
 <b>How work?</b><br>
 
 This is a little "hack" because there are not many "functions" to help you in game very well, but again i say for every users on this forum, my projects are for developers not for "players". In the program are used few functions from python, but you can create your own "hack":
